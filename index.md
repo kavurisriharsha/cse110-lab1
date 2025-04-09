@@ -1,6 +1,6 @@
 # Sriharsha (Harsha) Kavuri
 
-### [**Submission Repo**](https://github.com/kavurisriharsha/cse110-lab1)
+## [**Submission Repo**](https://github.com/kavurisriharsha/cse110-lab1)
 [About Me](#about-me) · [My Projects](#my-projects) · [My Interests](#my-interests) 
 
 ---
